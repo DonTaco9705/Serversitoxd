@@ -3528,3 +3528,302 @@ Missing minecraft:entity_type:
 [20Apr2025 02:27:05.205] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
 [20Apr2025 02:27:05.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
 [20Apr2025 02:27:05.218] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:27:29.569] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/21565ea1-133c-31a3-8548-77453644121a.json: Don't know what man:managgresive is
+[20Apr2025 02:27:29.570] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/21565ea1-133c-31a3-8548-77453644121a.json: Don't know what alexsmobs:animal_dictionary is
+[20Apr2025 02:27:29.571] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:root' in progress file ./world/advancements/21565ea1-133c-31a3-8548-77453644121a.json - it doesn't exist anymore?
+[20Apr2025 02:27:29.572] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'knize1007:hostilemobs' in progress file ./world/advancements/21565ea1-133c-31a3-8548-77453644121a.json - it doesn't exist anymore?
+[20Apr2025 02:27:29.572] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/21565ea1-133c-31a3-8548-77453644121a.json - it doesn't exist anymore?
+[20Apr2025 02:27:29.572] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'alexsmobs:alexsmobs/root' in progress file ./world/advancements/21565ea1-133c-31a3-8548-77453644121a.json - it doesn't exist anymore?
+[20Apr2025 02:27:29.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMAMEITOR3K[/127.181.242.121:50031] logged in with entity id 1430 at (95.5921661973708, 94.0, 101.49655497830167)
+[20Apr2025 02:27:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K joined the game
+[20Apr2025 02:27:29.612] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:27:29.615] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:27:29.639] [Server thread/INFO] [Jade/]: Syncing config to ELMAMEITOR3K (21565ea1-133c-31a3-8548-77453644121a)
+[20Apr2025 02:27:29.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K has made the advancement [Ice and Fire]
+[20Apr2025 02:27:29.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[20Apr2025 02:27:29.751] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[20Apr2025 02:27:29.751] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[20Apr2025 02:27:29.887] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id easyanvils:anvil
+[20Apr2025 02:27:30.129] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.130] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crow
+[20Apr2025 02:27:30.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/1555, l='ServerLevel[world]', x=238.75, y=72.00, z=272.06]
+[20Apr2025 02:27:30.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/1556, l='ServerLevel[world]', x=239.71, y=72.00, z=272.03]
+[20Apr2025 02:27:30.270] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[20Apr2025 02:27:30.770] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:30.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:bison
+[20Apr2025 02:27:44.636] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[20Apr2025 02:27:49.646] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:01.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Romanolshqui[/127.181.242.121:45907] logged in with entity id 1648 at (-3.5, 79.0, 0.5)
+[20Apr2025 02:28:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui joined the game
+[20Apr2025 02:28:01.102] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:28:01.103] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:28:01.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:28:01.118] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:01.134] [Server thread/INFO] [Jade/]: Syncing config to Romanolshqui (43a5534c-4e70-3e4c-b280-4c62c4bdd1f8)
+[20Apr2025 02:28:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has reached the goal [Easter]
+[20Apr2025 02:28:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Ice and Fire]
+[20Apr2025 02:28:13.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-6, y=-8, z=332}
+[20Apr2025 02:28:22.936] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:23.135] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:24.341] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:24.730] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:26.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:31.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was slain by ELMAMEITOR3K
+[20Apr2025 02:28:31.580] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:28:32.932] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:28:32.933] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:28:32.941] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:28:32.944] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K has made the advancement [Knowledge of Death]
+[20Apr2025 02:28:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K has made the advancement [Funeral Theft]
+[20Apr2025 02:28:39.899] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:47.134] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:28:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K hit the ground too hard
+[20Apr2025 02:28:50.843] [Server thread/INFO] [tombstone/]: The player ELMAMEITOR3K has successfully been saved
+[20Apr2025 02:28:52.546] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:28:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:28:52.558] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:28:52.561] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:29:03.223] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[20Apr2025 02:29:03.223] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:blue_jay
+[20Apr2025 02:29:03.223] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[20Apr2025 02:29:03.932] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/535, l='ServerLevel[world]', x=176.90, y=80.00, z=-16.98, removed=DISCARDED]
+[20Apr2025 02:29:07.082] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:blue_jay
+[20Apr2025 02:29:07.082] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:blue_jay
+[20Apr2025 02:29:08.812] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:29:12.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/535, l='ServerLevel[world]', x=176.90, y=80.00, z=-16.98, removed=DISCARDED]
+[20Apr2025 02:29:13.692] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:29:18.177] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:29:18.928] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:raccoon
+[20Apr2025 02:29:21.714] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:29:23.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:29:25.322] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:blue_jay
+[20Apr2025 02:29:31.665] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:29:31.713] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:29:51.186] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:00.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:30:01.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:01.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=82, z=-6}
+[20Apr2025 02:30:06.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=82, z=-6}
+[20Apr2025 02:30:07.133] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:09.977] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:30:10.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:14.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:23.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:23.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=82, z=-6}
+[20Apr2025 02:30:23.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=81, z=-7}
+[20Apr2025 02:30:24.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=82, z=-6}
+[20Apr2025 02:30:24.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:24.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:24.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:30:26.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:30:39.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=-18} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:30:45.739] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:47.433] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:52.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:30:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:30:56.879] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:30:59.778] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:31:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 has made the advancement [Stone Age]
+[20Apr2025 02:31:17.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:18.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:20.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:21.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:21.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:22.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:22.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:26.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:31:26.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:31:27.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:28.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:34.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:31:34.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:31:39.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:31:47.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=77, z=9}
+[20Apr2025 02:31:49.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:31:58.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=85, z=-18} BlockPos{x=-9, y=72, z=16}
+[20Apr2025 02:31:58.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=85, z=-18} BlockPos{x=-7, y=73, z=16}
+[20Apr2025 02:32:02.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=74, z=14}
+[20Apr2025 02:32:02.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-1, y=75, z=15}
+[20Apr2025 02:32:04.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:05.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=10}
+[20Apr2025 02:32:05.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:05.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:05.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:05.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:05.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:06.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:06.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Monster Hunter]
+[20Apr2025 02:32:06.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [A Strange Grave Dust]
+[20Apr2025 02:32:06.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:06.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:06.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:06.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:06.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:07.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:07.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:07.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:07.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:07.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:07.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:07.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:07.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:07.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-7, y=75, z=12}
+[20Apr2025 02:32:07.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-7, y=75, z=12}
+[20Apr2025 02:32:08.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:08.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:08.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:08.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:08.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:08.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:08.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:08.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:08.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:08.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=77, z=10}
+[20Apr2025 02:32:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=77, z=10}
+[20Apr2025 02:32:09.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:32:09.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:32:09.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:09.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=11}
+[20Apr2025 02:32:09.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=11}
+[20Apr2025 02:32:09.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=12}
+[20Apr2025 02:32:10.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:32:10.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:32:10.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=12}
+[20Apr2025 02:32:10.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=11}
+[20Apr2025 02:32:10.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=11}
+[20Apr2025 02:32:10.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=12}
+[20Apr2025 02:32:10.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=12}
+[20Apr2025 02:32:10.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-4, y=76, z=11}
+[20Apr2025 02:32:10.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:10.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=11}
+[20Apr2025 02:32:10.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:11.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=11}
+[20Apr2025 02:32:11.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=10}
+[20Apr2025 02:32:11.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-6, y=76, z=10}
+[20Apr2025 02:32:11.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:11.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=77, z=9}
+[20Apr2025 02:32:11.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:11.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=89, z=29} BlockPos{x=-5, y=76, z=10}
+[20Apr2025 02:32:21.182] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:32:22.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was shot by Skeleton
+[20Apr2025 02:32:22.924] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:32:24.088] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:32:24.089] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:32:24.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:32:24.099] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:32:27.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=72, z=19} BlockPos{x=12, y=84, z=-8}
+[20Apr2025 02:32:30.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=72, z=19} BlockPos{x=13, y=85, z=-7}
+[20Apr2025 02:32:31.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=72, z=19} BlockPos{x=13, y=84, z=-5}
+[20Apr2025 02:32:31.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=72, z=19} BlockPos{x=13, y=84, z=-4}
+[20Apr2025 02:32:59.347] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk has made the advancement [Knowledge of Death]
+[20Apr2025 02:33:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk has reached the goal [Chain Death]
+[20Apr2025 02:33:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was slain by Enderman
+[20Apr2025 02:33:02.225] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:33:03.283] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:03.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:03.292] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:03.294] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:03.399] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:08.146] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:13.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui was slain by Enderman
+[20Apr2025 02:33:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Your First Grave]
+[20Apr2025 02:33:13.166] [Server thread/INFO] [tombstone/]: The player Romanolshqui has successfully been saved
+[20Apr2025 02:33:14.044] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:14.436] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:14.437] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:14.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:15.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 was slain by Zombie
+[20Apr2025 02:33:23.768] [Server thread/INFO] [tombstone/]: The player DonTaco9701 has successfully been saved
+[20Apr2025 02:33:24.917] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:24.917] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:24.925] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:24.927] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was slain by Enderman
+[20Apr2025 02:33:27.464] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:33:28.759] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:28.760] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:28.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:28.770] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Knowledge of Death]
+[20Apr2025 02:33:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has reached the goal [Here They Come]
+[20Apr2025 02:33:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Knowledge raises the soul]
+[20Apr2025 02:33:44.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:45.695] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:54.335] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:54.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:33:56.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=84, z=-6}
+[20Apr2025 02:33:57.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=83, z=-6}
+[20Apr2025 02:33:57.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K was slain by Zombie
+[20Apr2025 02:33:57.314] [Server thread/INFO] [tombstone/]: The player ELMAMEITOR3K has successfully been saved
+[20Apr2025 02:33:58.459] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:33:59.330] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:33:59.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:33:59.338] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:33:59.341] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:34:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was slain by ELMAMEITOR3K
+[20Apr2025 02:34:32.249] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:34:33.743] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:34:33.743] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:34:33.750] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:34:33.752] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:34:37.561] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:34:37.961] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:34:41.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:34:50.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:34:51.434] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:34:52.749] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:34:53.743] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:34:56.293] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:35:06.411] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:35:07.512] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:35:16.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:35:17.560] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:35:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Stone Age]
+[20Apr2025 02:35:22.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=87, z=-9}
+[20Apr2025 02:35:27.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:35:38.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=79, z=-21} BlockPos{x=-1, y=84, z=-15}
+[20Apr2025 02:35:46.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui was slain by ELMAMEITOR3K
+[20Apr2025 02:35:46.199] [Server thread/INFO] [tombstone/]: The player Romanolshqui has successfully been saved
+[20Apr2025 02:35:47.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:35:47.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:35:47.398] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:35:47.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:35:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [The Most Useful Key]
+[20Apr2025 02:35:48.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 has made the advancement [Getting an Upgrade]
+[20Apr2025 02:35:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has reached the goal [A Fast Comeback]
+[20Apr2025 02:36:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTaco9701: Made DonTaco9701 no longer a server operator]
+[20Apr2025 02:36:32.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Romanolshqui has made the advancement [Getting an Upgrade]
+[20Apr2025 02:36:37.969] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:36:41.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:36:44.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K has made the advancement [Monster Hunter]
+[20Apr2025 02:36:45.363] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:36:45.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:36:48.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:36:50.132] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:36:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K has made the advancement [Stone Age]
+[20Apr2025 02:36:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vlugo.mk was slain by Enderman
+[20Apr2025 02:36:53.666] [Server thread/INFO] [tombstone/]: The player vlugo.mk has successfully been saved
+[20Apr2025 02:36:54.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:36:54.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:36:54.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:36:54.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
+[20Apr2025 02:37:00.737] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/535, l='ServerLevel[world]', x=176.90, y=80.00, z=-16.98, removed=DISCARDED]
+[20Apr2025 02:37:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMAMEITOR3K was slain by DonTaco9701
+[20Apr2025 02:37:19.863] [Server thread/INFO] [tombstone/]: The player ELMAMEITOR3K has successfully been saved
+[20Apr2025 02:37:21.192] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/296, l='ServerLevel[world]', x=0.13, y=80.00, z=-19.69, removed=DISCARDED]
+[20Apr2025 02:37:21.193] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/289, l='ServerLevel[world]', x=0.12, y=75.00, z=17.11, removed=DISCARDED]
+[20Apr2025 02:37:21.201] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/360, l='ServerLevel[world]', x=78.89, y=55.00, z=29.56, removed=DISCARDED]
+[20Apr2025 02:37:22.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/381, l='ServerLevel[world]', x=87.97, y=24.00, z=11.24, removed=DISCARDED]
